@@ -2,6 +2,10 @@
 
 A minimal example of an agentic AI architecture (conversation, tools, agent state). This repository contains small modules used for experimenting with agent design patterns.
 
+# Ref:
+https://medium.com/@iamanraghuvanshi/building-an-ai-agent-from-scratch-with-pure-python-in-2026-229af2a9b8ce
+
+
 ## Quick Start
 
 - Create and activate the virtual environment (Windows PowerShell):
